@@ -12,7 +12,7 @@ My goal for **2026** is to build impactful AI products.
 ## Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,js,cpp,cs,react,nextjs,nodejs,fastapi,postgres,mongodb,firebase,pytorch,git,linux,figma" />
+<img src="https://skillicons.dev/icons?i=python,java,js,cpp,react,nextjs,nodejs,fastapi,postgres,mongodb,firebase,pytorch,git,linux,figma" />
 </p>
 
 
