@@ -1,16 +1,8 @@
-<div align="center">
-
 # Juan Murillo
 
 ### Systems Engineer • Software Developer • AI Enthusiast
 
 Turning ideas into software through design, code, and AI.
-
-<a href="https://www.linkedin.com/in/juandiegomurillo/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
