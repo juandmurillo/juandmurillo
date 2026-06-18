@@ -6,12 +6,6 @@
 
 Turning ideas into software through design, code, and AI.
 
-<br>
-
-Bogotá, Colombia
-
-<br>
-
 <a href="https://www.linkedin.com/in/juandiegomurillo/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
@@ -30,39 +24,12 @@ Focused on building experiences through **Full Stack Development**, **Frontend E
 
 My goal for **2026** is to build impactful AI products.
 
----
+## Stack
 
-## Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,cpp,cs,mysql" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,js,cpp,cs,react,nextjs,nodejs,django,fastapi,postgres,mongodb,firebase,tensorflow,pytorch,git,linux,figma,vscode" />
 </p>
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" />
-</p>
-
-### AI · Data
-
-TensorFlow · PyTorch · Keras · Pandas · Scikit-Learn · MATLAB
-
----
 
 ## Current Focus
 
