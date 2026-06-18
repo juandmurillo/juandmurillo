@@ -2,9 +2,9 @@
 
 # Juan Murillo
 
-### Systems Engineer · Software Developer · AI Enthusiast
+### Systems Engineer • Software Developer • AI Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=3000&pause=2500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+software.;Building+through+design%2C+code%2C+and+AI.;Creating+technology+with+purpose."/>
+Turning ideas into software through design, code, and AI.
 
 <br>
 
@@ -13,108 +13,89 @@ Bogotá, Colombia
 <br>
 
 <a href="https://www.linkedin.com/in/juandiegomurillo/">
-<img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## /about
+## About
 
 Recently graduated **Systems Engineer** from **Universidad Distrital Francisco José de Caldas**.
 
-I’m passionate about technology, innovation, and creating solutions that transform ideas into meaningful digital experiences.
+Passionate about **technology, innovation, and creating solutions that generate real impact**.
 
-My work sits at the intersection of:
+Focused on building experiences through **Full Stack Development**, **Frontend Engineering**, **Artificial Intelligence**, and **Data Science**.
 
-→ Full Stack Development
-→ Frontend Engineering
-→ Artificial Intelligence
-→ Data Science
-
-Current objective:
-
-**Build impactful AI products by 2026.**
+My goal for **2026** is to build impactful AI products.
 
 ---
 
-## /stack
+## Tech Stack
 
-<div align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,js,cpp,cs"/>
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,cpp,cs,mysql" />
+</p>
 
-<br><br>
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+</p>
 
-<br><br>
+### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask"/>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask" />
+</p>
 
-<br><br>
+### Databases
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase"/>
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" />
+</p>
 
-</div>
-
-<br>
-
-<div align="center">
+### AI · Data
 
 TensorFlow · PyTorch · Keras · Pandas · Scikit-Learn · MATLAB
 
-</div>
+---
+
+## Current Focus
+
+→ Building stronger Full Stack systems
+→ Exploring Artificial Intelligence applications
+→ Creating products with meaningful user experiences
+→ Continuous learning and experimentation
 
 ---
 
-## /currently
+## Philosophy
 
-Building stronger software foundations.
-
-Learning how modern AI systems move from experimentation into real products.
-
-Improving the intersection between engineering, design, and user experience.
+> Build with intention.
+> Design with simplicity.
+> Learn continuously.
 
 ---
 
-## /principles
+## Beyond Code
 
-```txt
-Minimal over complex.
-
-Useful over impressive.
-
-Consistency over intensity.
-
-Ship → Learn → Improve
-```
-
----
-
-## /outside-tech
-
-```txt
-🏋 Gym
+🏋️ Gym
 🏃 Running
 📷 Photography
 📚 Reading
-
 🎨 Design
 🏊 Swimming
-✈ Travel
+✈️ Travel
 🎮 Gaming
-```
 
 ---
 
 <div align="center">
 
-### Open to opportunities and meaningful collaborations
-
-<br>
-
-<sub>Designed with simplicity.</sub>
+### Open to opportunities, collaboration, and ambitious ideas.
 
 </div>
