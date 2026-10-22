@@ -1,41 +1,21 @@
-# Juan Murillo
-### Systems Engineer • Software Developer • AI Enthusiast
-Turning ideas into software through design, code, and AI.
+# Juan Diego Murillo
+**Systems Engineer · Applied AI & Software Development** — Bogotá, Colombia 🇨🇴
 
----
+I build software that uses AI: Python, React, LLM APIs and machine learning, backed by applied research in evolutionary algorithms and remote sensing.
 
-## About
-Recently graduated **Systems Engineer** from **Universidad Distrital Francisco José de Caldas**.
-Passionate about **technology, innovation, and creating solutions that generate real impact**.
-Focused on building experiences through **Full Stack Development**, **Frontend Engineering**, **Artificial Intelligence**, and **Data Science**.
-My goal for **2026** is to build impactful AI products.
-## Stack
+### 🔬 Selected work
+- 🚦 **Adaptive traffic-light control with evolutionary algorithms.** SUMO + TraCI + Python. In simulation, waiting time fell 91 % at a four-way intersection, and bus waiting time fell 67.8 % at a TransMilenio station. *(2 co-authored papers)*
+- 🛰️ **Accuracy vs. interpretability in Landsat 9 land-cover classification.** Neural networks reached 96.6 % accuracy (Kappa 0.94); a decision tree came within 0.5 points. *(co-authored paper)*
+- 🌍 **[traceroute.live](https://github.com/juandmurillo/TraceRoute2.0).** 360+ network routes from 41 cities, on an interactive map and statistics dashboard (Flask + JS).
+- 🏥 **[Healthcare platform](https://github.com/maestria-proyecto-eps/frontend-eps).** React modules on top of 6 Python microservices, built in a Scrum team (graduate capstone).
+- 🛑 **[Real-time traffic sign recognition](https://github.com/juandmurillo/signal-detector).** Keras CNN + OpenCV.
+- 🛒 **E-commerce platform for an optical retailer.** WordPress/WooCommerce, with GA4/GTM measurement (client work, in progress).
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,js,cpp,react,nextjs,nodejs,fastapi,postgres,mongodb,firebase,pytorch,git,linux,figma" />
-</p>
+### 🧰 Stack
+Python · FastAPI · Flask · React · Next.js · JavaScript · PostgreSQL · MySQL · MongoDB · Docker · Git
+scikit-learn · TensorFlow/Keras · PyTorch · OpenCV · LLM APIs (OpenAI, Anthropic) · SUMO · GA4 · Google Tag Manager · WordPress
 
+### 🌱 Next project (in progress)
+A RAG assistant with tool calling and an evaluation suite (FastAPI · pgvector · Next.js/TypeScript · Azure).
 
-## Current Focus
-→ Building stronger Full Stack systems
-→ Exploring Artificial Intelligence applications
-→ Creating products with meaningful user experiences
-→ Continuous learning and experimentation
-
----
-
-## Philosophy
-> Build with intention.
-> Design with simplicity.
-> Learn continuously.
-
----
-
-## Beyond Code
-🏋️ Gym · 🏃 Running · ♞ Chess · 📷 Photography · 📚 Reading · 🎨 Design · 🏊 Swimming · ✈️ Travel · 🎮 Gaming
-
----
-
-<div align="center">
-### Open to opportunities, collaboration, and ambitious ideas.
-</div>
+📫 [LinkedIn](https://www.linkedin.com/in/juandiegomurillo) · juandgmurillo@gmail.com · English B2 / Spanish native
