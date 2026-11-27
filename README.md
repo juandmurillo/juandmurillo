@@ -4,7 +4,7 @@
 I build software that uses AI: Python, React, LLM APIs and machine learning, backed by applied research in evolutionary algorithms and remote sensing.
 
 ### 🔬 Selected work
-- 💰 **[Caudal](https://github.com/juandmurillo/finanzas-co).** Local-first personal finance app with an optional AI assistant that uses tool calling and several LLM providers; 140 backend tests and CI.
+- 💰 **[Vadeo](https://vadeo.pages.dev)** (formerly Caudal). Local-first personal finance app for Colombia, released for Windows and Android, with offline-first sync between devices and an optional AI assistant that uses tool calling and several LLM providers; 199 backend and 104 frontend tests, CI. [Code](https://github.com/juandmurillo/finanzas-co)
 - ⚙️ **[n8n job-posting classifier](https://github.com/juandmurillo/n8n-clasificador-vacantes).** Webhook or chat input, local LLM (Ollama) and Google Sheets, with validation and error handling.
 - 🤖 **Planning agents.** Claude Code connected through MCP to Notion and Google Calendar, with human approval for changes.
 - 🚦 **Adaptive traffic-light control with evolutionary algorithms.** SUMO + TraCI + Python. In simulation, waiting time fell 91 % at a four-way intersection, and bus waiting time fell 67.8 % at a TransMilenio station. *(2 co-authored papers)*
